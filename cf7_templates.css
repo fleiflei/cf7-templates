@@ -1,0 +1,9 @@
+#submitpost .cf7-templates-meta-box-infos {
+    padding: 10px 10px 0 10px;
+}
+
+#submitpost .cf7-templates-meta-box-infos h3 {
+    font-weight:bold;
+    padding-left:0;
+    font-size:14px;
+}
